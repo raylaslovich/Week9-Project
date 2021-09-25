@@ -1,0 +1,27 @@
+
+.table table-dark {
+    padding: 1%;
+}
+
+.heading {
+    color:black;
+    border-style: solid black;
+    border-radius: 2px;
+    padding: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:justify;
+}
+
+.form {
+    border-style: solid;
+    color: black;
+    padding: 8px;
+}
+
+.note p {
+    color: rgb(9, 9, 49);
+}
+
+footer {
+    background-color: #5d849e;
+}
